@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-block theme
+Wordpress block theme
 
 == Changelog ==
 
@@ -43,5 +43,3 @@ Contact Form 7
 Cyr-To-Lat
 Flamingo
 Yoast SEO
-
-
