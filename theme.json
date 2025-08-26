@@ -1,0 +1,73 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#FFFFFF",
+					"name": "Базовый",
+					"slug": "base"
+				},
+				{
+					"color": "#292929",
+					"name": "Контраст",
+					"slug": "contrast"
+				},
+				{
+					"color": "#FFEE58",
+					"name": "Акцент 1",
+					"slug": "accent-1"
+				},
+				{
+					"color": "#F6CFF4",
+					"name": "Акцент 2",
+					"slug": "accent-2"
+				},
+				{
+					"color": "#503AA8",
+					"name": "Акцент 3",
+					"slug": "accent-3"
+				},
+				{
+					"color": "#686868",
+					"name": "Акцент 4",
+					"slug": "accent-4"
+				},
+				{
+					"color": "#FBFAF3",
+					"name": "Акцент 5",
+					"slug": "accent-5"
+				},
+				{
+					"color": "color-mix(in srgb, currentColor 20%, transparent)",
+					"name": "Акцент 6",
+					"slug": "accent-6"
+				}
+			]
+		},
+		"layout": {
+			"contentSize": "700px"
+		}
+	},
+	"styles": {
+		"elements": {
+			"h1": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "600"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "400"
+				}
+			}
+		},
+		"typography": {
+			"fontStyle": "normal",
+			"fontWeight": "300"
+		}
+	},
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.8/theme.json"
+}
